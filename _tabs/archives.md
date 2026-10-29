@@ -1,5 +1,8 @@
 ---
-layout: archives
-icon: fas fa-archive
-order: 3
+layout: page
+title: About
+icon: fas fa-info-circle
+order: 4
 ---
+
+# Chenyu Zhang

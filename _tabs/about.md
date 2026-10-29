@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: About
@@ -12,11 +13,13 @@ order: 4
 School of Computer Science and Artificial Intelligence  
 Zhengzhou University, China
 
-## About Me
+## Biography
 
-I am currently pursuing a master's degree in Artificial Intelligence at Zhengzhou University, China.
-
-My research interests primarily focus on computer vision, multimodal learning, and affective computing.
+I am a master's student in Artificial Intelligence at
+Zhengzhou University, China. My research focuses on
+computer vision, multimodal learning, and affective
+computing, with a particular interest in understanding
+emotions from visual and textual information.
 
 ## Research Interests
 
@@ -24,8 +27,22 @@ My research interests primarily focus on computer vision, multimodal learning, a
 - Multimodal Learning
 - Multimodal Emotion Understanding
 - Affective Computing
+- Vision-Language Models
+
+## Research Projects
+
+### Multimodal Meme Emotion Understanding
+
+Research on contextual semantic augmentation,
+cross-modal contrastive alignment, and multimodal
+emotion classification.
+
+### AI Systems and Applications
+
+Exploration of large language models, AI agents,
+and intelligent application development.
 
 ## Contact
 
-- **Email:** [z137184698@163.com](mailto:z137184698@163.com)
-- **GitHub:** [Zhanghaorenen](https://github.com/Zhanghaorenen)
+- Email: z137184698@163.com
+- GitHub: [Zhanghaorenen](https://github.com/Zhanghaorenen)
